@@ -13,10 +13,10 @@
         "build"
     ],
     "dependencies": {
-        "@modelcontextprotocol/sdk": ">=1.26.0",
+        "@modelcontextprotocol/sdk": ">=1.32.0",
         "type": "^2.7.3",
-        "uuid": "^11.1.0",
-        "zod": "^3.24.2"
+        "uuid": "^14.0.0",
+        "zod": "^4.6.7"
     },
     "devDependencies": {
         "@types/node": "^20.11.24",
